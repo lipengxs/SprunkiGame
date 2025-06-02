@@ -1343,17 +1343,617 @@ const GameLibrary = [{
     "gameUrl": "https://www.gameflare.com/embed/gta-smash-the-car-to-pieces/",
     "filePath": "gta-smash-the-car-to-pieces-logo.jpg",
     "urlPath": "gta-smash-the-car-to-pieces"
+},{
+    "id": 204,
+    "name": "Mad GunS - Battle Royale",
+    "gameUrl": "https://www.gameflare.com/embed/mad-guns-battle-royale/",
+    "filePath": "mad-guns-battle-royale-logo.jpg",
+    "urlPath": "mad-guns-battle-royale"
+},{
+    "id": 205,
+    "name": "Idle Game Dev Simulator",
+    "gameUrl": "https://www.gameflare.com/embed/idle-game-dev-simulator/",
+    "filePath": "idle-game-dev-simulator-logo.jpg",
+    "urlPath": "idle-game-dev-simulator"
+},{
+    "id": 206,
+    "name": "Sprunki: The Lost Souls",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-the-lost-souls/",
+    "filePath": "sprunki-the-lost-souls-logo.jpg",
+    "urlPath": "sprunki-the-lost-souls"
+},{
+    "id": 207,
+    "name": "Lulu's Fashion World",
+    "gameUrl": "https://www.gameflare.com/embed/lulu-s-fashion-world/",
+    "filePath": "lulu-s-fashion-world-logo.jpg",
+    "urlPath": "lulu-s-fashion-world"
+},{
+    "id": 208,
+    "name": "Operation Flashpoint: Red - Blue War",
+    "gameUrl": "https://www.gameflare.com/embed/operation-flashpoint-red-blue-war/",
+    "filePath": "operation-flashpoint-red-blue-war-logo.jpg",
+    "urlPath": "operation-flashpoint-red-blue-war"
+},{
+    "id": 209,
+    "name": "Sprunki Phase 1.5 Remaster",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-phase-15-remaster/",
+    "filePath": "sprunki-phase-15-remaster-logo.jpg",
+    "urlPath": "sprunki-phase-15-remaster"
+},{
+    "id": 210,
+    "name": "Italian Brainrot: Meme Sandbox",
+    "gameUrl": "https://www.gameflare.com/embed/italian-brainrot-meme-sandbox/",
+    "filePath": "italian-brainrot-meme-sandbox-logo.jpg",
+    "urlPath": "italian-brainrot-meme-sandbox"
+},{
+    "id": 211,
+    "name": "Powerwash Simulator: 3D Wash",
+    "gameUrl": "https://www.gameflare.com/embed/powerwash-simulator-3d-wash/",
+    "filePath": "powerwash-simulator-3d-wash-logo.jpg",
+    "urlPath": "powerwash-simulator-3d-wash"
+},{
+    "id": 212,
+    "name": "Brainrot Clicker",
+    "gameUrl": "https://www.gameflare.com/embed/brainrot-clicker/",
+    "filePath": "brainrot-clicker-logo.jpg",
+    "urlPath": "brainrot-clicker"
+},{
+    "id": 213,
+    "name": "Baby Sniper In Vietnam",
+    "gameUrl": "https://www.gameflare.com/embed/baby-sniper-in-vietnam/",
+    "filePath": "baby-sniper-in-vietnam-logo.jpg",
+    "urlPath": "baby-sniper-in-vietnam"
+},{
+    "id": 214,
+    "name": "Squid Game: Mini Games Online",
+    "gameUrl": "https://www.gameflare.com/embed/squid-game-mini-games-online/",
+    "filePath": "squid-game-mini-games-online-logo.jpg",
+    "urlPath": "squid-game-mini-games-online"
+},{
+    "id": 215,
+    "name": "Five Nights at Candy's Remaster",
+    "gameUrl": "https://www.gameflare.com/embed/five-nights-at-candy-s-remaster/",
+    "filePath": "five-nights-at-candy-s-remaster-logo.jpg",
+    "urlPath": "five-nights-at-candy-s-remaster"
+},{
+    "id": 216,
+    "name": "KS Russian Snipers",
+    "gameUrl": "https://www.gameflare.com/embed/ks-russian-snipers/",
+    "filePath": "ks-russian-snipers-logo.jpg",
+    "urlPath": "ks-russian-snipers"
+},{
+    "id": 217,
+    "name": "Grand Escape: Prison",
+    "gameUrl": "https://www.gameflare.com/embed/grand-escape-prison/",
+    "filePath": "grand-escape-prison-logo.jpg",
+    "urlPath": "grand-escape-prison"
+},{
+    "id": 218,
+    "name": "Octopus Invasion",
+    "gameUrl": "https://www.gameflare.com/embed/octopus-invasion/",
+    "filePath": "octopus-invasion-logo.jpg",
+    "urlPath": "octopus-invasion"
+},{
+    "id": 219,
+    "name": "Sprunksters Episode 2: The Cave",
+    "gameUrl": "https://www.gameflare.com/embed/sprunksters-episode-2-the-cave/",
+    "filePath": "sprunksters-episode-2-the-cave-logo.jpg",
+    "urlPath": "sprunksters-episode-2-the-cave"
+},{
+    "id": 220,
+    "name": "Geometry 2.2",
+    "gameUrl": "https://www.gameflare.com/embed/geometry-22/",
+    "filePath": "geometry-22-logo.jpg",
+    "urlPath": "geometry-22"
+},{
+    "id": 221,
+    "name": "Sprunki Mr. Fun Computer Treatment",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-mr-fun-computer-treatment/",
+    "filePath": "sprunki-mr-fun-computer-treatment-logo.jpg",
+    "urlPath": "sprunki-mr-fun-computer-treatment"
+},{
+    "id": 222,
+    "name": "Italian Brainrot Obby Parkour",
+    "gameUrl": "https://www.gameflare.com/embed/italian-brainrot-obby-parkour/",
+    "filePath": "italian-brainrot-obby-parkour-logo.jpg",
+    "urlPath": "italian-brainrot-obby-parkour"
+},{
+    "id": 223,
+    "name": "Sprunki Wenda Treatment Pyramixed 3.0",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-wenda-treatment-pyramixed-30/",
+    "filePath": "sprunki-wenda-treatment-pyramixed-30-logo.jpg",
+    "urlPath": "sprunki-wenda-treatment-pyramixed-30"
+},{
+    "id": 224,
+    "name": "WinterCraft: Survival in the Forest",
+    "gameUrl": "https://www.gameflare.com/embed/wintercraft-survival-in-the-forest/",
+    "filePath": "wintercraft-survival-in-the-forest-logo.jpg",
+    "urlPath": "wintercraft-survival-in-the-forest"
+},{
+    "id": 225,
+    "name": "Adopt Me",
+    "gameUrl": "https://www.gameflare.com/embed/adopt-me/",
+    "filePath": "adopt-me-logo.jpg",
+    "urlPath": "adopt-me"
+},{
+    "id": 226,
+    "name": "Epic Sword Battle!",
+    "gameUrl": "https://www.gameflare.com/embed/epic-sword-battle/",
+    "filePath": "epic-sword-battle-logo.jpg",
+    "urlPath": "epic-sword-battle"
+},{
+    "id": 227,
+    "name": "FRAGEN",
+    "gameUrl": "https://www.gameflare.com/embed/fragen/",
+    "filePath": "fragen-logo.jpg",
+    "urlPath": "fragen"
+},{
+    "id": 228,
+    "name": "Italian Animals Mod: Playground",
+    "gameUrl": "https://www.gameflare.com/embed/italian-animals-mod-playground/",
+    "filePath": "italian-animals-mod-playground-logo.jpg",
+    "urlPath": "italian-animals-mod-playground"
+},{
+    "id": 229,
+    "name": "reKILL",
+    "gameUrl": "https://www.gameflare.com/embed/rekill/",
+    "filePath": "rekill-logo.jpg",
+    "urlPath": "rekill"
+},{
+    "id": 230,
+    "name": "Sprunki MSI Phase 3",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-msi-phase-3/",
+    "filePath": "sprunki-msi-phase-3-logo.jpg",
+    "urlPath": "sprunki-msi-phase-3"
+},{
+    "id": 231,
+    "name": "Hole Digger",
+    "gameUrl": "https://www.gameflare.com/embed/hole-digger/",
+    "filePath": "hole-digger-logo.jpg",
+    "urlPath": "hole-digger"
+},{
+    "id": 232,
+    "name": "Ultimate Custom Night",
+    "gameUrl": "https://www.gameflare.com/embed/ultimate-custom-night/",
+    "filePath": "ultimate-custom-night-logo.jpg",
+    "urlPath": "ultimate-custom-night"
+},{
+    "id": 233,
+    "name": "Sprunki: Italian Brainrot",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-italian-brainrot/",
+    "filePath": "sprunki-italian-brainrot-logo.jpg",
+    "urlPath": "sprunki-italian-brainrot"
+},{
+    "id": 234,
+    "name": "Mega Parkour: Obby Escape Run",
+    "gameUrl": "https://www.gameflare.com/embed/mega-parkour-obby-escape-run/",
+    "filePath": "mega-parkour-obby-escape-run-logo.jpg",
+    "urlPath": "mega-parkour-obby-escape-run"
+},{
+    "id": 235,
+    "name": "Pimple Squeeze",
+    "gameUrl": "https://www.gameflare.com/embed/pimple-squeeze/",
+    "filePath": "pimple-squeeze-logo.jpg",
+    "urlPath": "pimple-squeeze"
+},{
+    "id": 236,
+    "name": "Sprunki: Wenda Treatment 2.0",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-wenda-treatment-20/",
+    "filePath": "sprunki-wenda-treatment-20-logo.jpg",
+    "urlPath": "sprunki-wenda-treatment-20"
+},{
+    "id": 237,
+    "name": "Italian Brainrot Animals: Playground",
+    "gameUrl": "https://www.gameflare.com/embed/italian-brainrot-animals-playground/",
+    "filePath": "italian-brainrot-animals-playground-logo.jpg",
+    "urlPath": "italian-brainrot-animals-playground"
+},{
+    "id": 238,
+    "name": "Roblox: Raft Tycoon",
+    "gameUrl": "https://www.gameflare.com/embed/roblox-raft-tycoon/",
+    "filePath": "roblox-raft-tycoon-logo.jpg",
+    "urlPath": "roblox-raft-tycoon"
+},{
+    "id": 239,
+    "name": "Jolly 2",
+    "gameUrl": "https://www.gameflare.com/embed/jolly-2/",
+    "filePath": "jolly-2-logo.jpg",
+    "urlPath": "jolly-2"
+},{
+    "id": 240,
+    "name": "The Definitive Phase 9: Revenge",
+    "gameUrl": "https://www.gameflare.com/embed/the-definitive-phase-9-revenge/",
+    "filePath": "the-definitive-phase-9-revenge-logo.jpg",
+    "urlPath": "the-definitive-phase-9-revenge"
+},{
+    "id": 241,
+    "name": "The Return to Freddy's 3",
+    "gameUrl": "https://www.gameflare.com/embed/the-return-to-freddy-s-3/",
+    "filePath": "the-return-to-freddy-s-3-logo.jpg",
+    "urlPath": "the-return-to-freddy-s-3"
+},{
+    "id": 242,
+    "name": "Mr. Dude: Online Multiverse Challenges",
+    "gameUrl": "https://www.gameflare.com/embed/mr-dude-online-multiverse-challenges/",
+    "filePath": "mr-dude-online-multiverse-challenges-logo.jpg",
+    "urlPath": "mr-dude-online-multiverse-challenges"
+},{
+    "id": 243,
+    "name": "Sprunki.MSI",
+    "gameUrl": "https://www.gameflare.com/embed/sprunkimsi/",
+    "filePath": "sprunkimsi-logo.jpg",
+    "urlPath": "sprunkimsi"
+},{
+    "id": 244,
+    "name": "People vs Zombies: Sandbox",
+    "gameUrl": "https://www.gameflare.com/embed/people-vs-zombies-sandbox/",
+    "filePath": "people-vs-zombies-sandbox-logo.jpg",
+    "urlPath": "people-vs-zombies-sandbox"
+},{
+    "id": 245,
+    "name": "Cat Simulator: My Pets",
+    "gameUrl": "https://www.gameflare.com/embed/cat-simulator-my-pets/",
+    "filePath": "cat-simulator-my-pets-logo.jpg",
+    "urlPath": "cat-simulator-my-pets"
+},{
+    "id": 246,
+    "name": "Sprunki Craft - Sandbox 3D",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-craft-sandbox-3d/",
+    "filePath": "sprunki-craft-sandbox-3d-logo.jpg",
+    "urlPath": "sprunki-craft-sandbox-3d"
+},{
+    "id": 247,
+    "name": "Ultimate Destruction Simulator",
+    "gameUrl": "https://www.gameflare.com/embed/ultimate-destruction-simulator/",
+    "filePath": "ultimate-destruction-simulator-logo.jpg",
+    "urlPath": "ultimate-destruction-simulator"
+},{
+    "id": 248,
+    "name": "Sprunki All Bonus",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-all-bonus/",
+    "filePath": "sprunki-all-bonus-logo.jpg",
+    "urlPath": "sprunki-all-bonus"
+},{
+    "id": 249,
+    "name": "Arsenal Playground: Ragdoll Mayhem",
+    "gameUrl": "https://www.gameflare.com/embed/arsenal-playground-ragdoll-mayhem/",
+    "filePath": "arsenal-playground-ragdoll-mayhem-logo.png",
+    "urlPath": "arsenal-playground-ragdoll-mayhem"
+},{
+    "id": 250,
+    "name": "Yubin Niiku 2: Dionysos' Denial",
+    "gameUrl": "https://www.gameflare.com/embed/yubin-niiku-2-dionysos-denial/",
+    "filePath": "yubin-niiku-2-dionysos-denial-logo.jpg",
+    "urlPath": "yubin-niiku-2-dionysos-denial"
+},{
+    "id": 251,
+    "name": "Fluffy Fall",
+    "gameUrl": "https://www.gameflare.com/embed/fluffy-fall/",
+    "filePath": "fluffy-fall-logo.jpg",
+    "urlPath": "fluffy-fall"
+},{
+    "id": 252,
+    "name": "Sprunki Brud Edition",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-brud-edition/",
+    "filePath": "sprunki-brud-edition-logo.jpg",
+    "urlPath": "sprunki-brud-edition"
+},{
+    "id": 253,
+    "name": "Ragdoll Hit Stickman",
+    "gameUrl": "https://www.gameflare.com/embed/ragdoll-hit-stickman/",
+    "filePath": "ragdoll-hit-stickman-logo.jpg",
+    "urlPath": "ragdoll-hit-stickman"
+},{
+    "id": 254,
+    "name": "3D Pinball Space Cadet",
+    "gameUrl": "https://www.gameflare.com/embed/3d-pinball-space-cadet/",
+    "filePath": "3d-pinball-space-cadet-logo.jpg",
+    "urlPath": "3d-pinball-space-cadet"
+},{
+    "id": 255,
+    "name": "Sprunki Wenda Treatment",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-wenda-treatment/",
+    "filePath": "sprunki-wenda-treatment-logo.jpg",
+    "urlPath": "sprunki-wenda-treatment"
+},{
+    "id": 256,
+    "name": "Hawk of Evil: Zombie Invasion",
+    "gameUrl": "https://www.gameflare.com/embed/hawk-of-evil-zombie-invasion/",
+    "filePath": "hawk-of-evil-zombie-invasion-logo.jpg",
+    "urlPath": "hawk-of-evil-zombie-invasion"
+},{
+    "id": 257,
+    "name": "Sprunki: Simon's Realm",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-simons-realm/",
+    "filePath": "sprunki-simons-realm-logo.jpg",
+    "urlPath": "sprunki-simons-realm"
+},{
+    "id": 258,
+    "name": "Hero Blocks Arena! Ragdoll Sword Fight!",
+    "gameUrl": "https://www.gameflare.com/embed/hero-blocks-arena-ragdoll-sword-fight/",
+    "filePath": "hero-blocks-arena-ragdoll-sword-fight-logo.jpg",
+    "urlPath": "hero-blocks-arena-ragdoll-sword-fight"
+},{
+    "id": 259,
+    "name": "Sprunki Chaotic Good PLUS!",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-chaotic-good-plus/",
+    "filePath": "sprunki-chaotic-good-plus-logo.jpg",
+    "urlPath": "sprunki-chaotic-good-plus"
+},{
+    "id": 260,
+    "name": "Samurai's Shadow",
+    "gameUrl": "https://www.gameflare.com/embed/samurais-shadow/",
+    "filePath": "samurais-shadow-logo.jpg",
+    "urlPath": "samurais-shadow"
+},{
+    "id": 261,
+    "name": "FNF vs Indie Cross",
+    "gameUrl": "https://www.gameflare.com/embed/fnf-vs-indie-cross/",
+    "filePath": "fnf-vs-indie-cross-logo.jpg",
+    "urlPath": "fnf-vs-indie-cross"
+},{
+    "id": 262,
+    "name": "Pixel Path",
+    "gameUrl": "https://www.gameflare.com/embed/pixel-path/",
+    "filePath": "pixel-path-logo.jpg",
+    "urlPath": "pixel-path"
+},{
+    "id": 263,
+    "name": "Sprunksters: The Final Update",
+    "gameUrl": "https://www.gameflare.com/embed/sprunksters-the-final-update/",
+    "filePath": "sprunksters-the-final-update-logo.jpg",
+    "urlPath": "sprunksters-the-final-update"
+},{
+    "id": 264,
+    "name": "Noob Sniper 3D",
+    "gameUrl": "https://www.gameflare.com/embed/noob-sniper-3d/",
+    "filePath": "noob-sniper-3d-logo.jpg",
+    "urlPath": "noob-sniper-3d"
+},{
+    "id": 265,
+    "name": "Dynamons 11",
+    "gameUrl": "https://www.gameflare.com/embed/dynamons-11/",
+    "filePath": "dynamons-11-logo.jpg",
+    "urlPath": "dynamons-11"
+},{
+    "id": 266,
+    "name": "Sprunki Retake",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-retake/",
+    "filePath": "sprunki-retake-logo.jpg",
+    "urlPath": "sprunki-retake"
+},{
+    "id": 267,
+    "name": "People Playground 3D",
+    "gameUrl": "https://www.gameflare.com/embed/people-playground-3d/",
+    "filePath": "people-playground-3d-logo.jpg",
+    "urlPath": "people-playground-3d"
+},{
+    "id": 268,
+    "name": "Sprunki Ultimate Deluxe",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-ultimate-deluxe/",
+    "filePath": "sprunki-ultimate-deluxe-logo.jpg",
+    "urlPath": "sprunki-ultimate-deluxe"
+},{
+    "id": 269,
+    "name": "Cubecraft Sandbox: Ragdoll Playground",
+    "gameUrl": "https://www.gameflare.com/embed/cubecraft-sandbox-ragdoll-playground/",
+    "filePath": "cubecraft-sandbox-ragdoll-playground-logo.jpg",
+    "urlPath": "cubecraft-sandbox-ragdoll-playground"
+},{
+    "id": 270,
+    "name": "Spfundi Sprunki",
+    "gameUrl": "https://www.gameflare.com/embed/spfundi-sprunki/",
+    "filePath": "spfundi-sprunki-logo.jpg",
+    "urlPath": "spfundi-sprunki"
+},{
+    "id": 271,
+    "name": "Cat Chaos Simulator",
+    "gameUrl": "https://www.gameflare.com/embed/cat-chaos-simulator/",
+    "filePath": "cat-chaos-simulator-logo.jpg",
+    "urlPath": "cat-chaos-simulator"
+},{
+    "id": 272,
+    "name": "ParaSprunki Phase 3.7",
+    "gameUrl": "https://www.gameflare.com/embed/parasprunki-phase-37/",
+    "filePath": "parasprunki-phase-37-logo.jpg",
+    "urlPath": "parasprunki-phase-37"
+},{
+    "id": 273,
+    "name": "Stick Fighting Online",
+    "gameUrl": "https://www.gameflare.com/embed/stick-fighting-online/",
+    "filePath": "stick-fighting-online-logo.jpg",
+    "urlPath": "stick-fighting-online"
+},{
+    "id": 274,
+    "name": "Overtide.io",
+    "gameUrl": "https://www.gameflare.com/embed/overtideio/",
+    "filePath": "overtideio-logo.jpg",
+    "urlPath": "overtideio"
+},{
+    "id": 275,
+    "name": "Dungeon Master: Cult & Craft",
+    "gameUrl": "https://www.gameflare.com/embed/dungeon-master-cult-craft/",
+    "filePath": "dungeon-master-cult-craft-logo.jpg",
+    "urlPath": "dungeon-master-cult-craft"
+},{
+    "id": 276,
+    "name": "Mosquito Bite 3D",
+    "gameUrl": "https://www.gameflare.com/embed/mosquito-bite-3d/",
+    "filePath": "mosquito-bite-3d-logo.jpg",
+    "urlPath": "mosquito-bite-3d"
+},{
+    "id": 277,
+    "name": "Tunnel Road",
+    "gameUrl": "https://www.gameflare.com/embed/tunnel-road/",
+    "filePath": "tunnel-road-logo.jpg",
+    "urlPath": "tunnel-road"
+},{
+    "id": 278,
+    "name": "Sonic.EXE",
+    "gameUrl": "https://www.gameflare.com/embed/sonicexe/",
+    "filePath": "sonicexe-logo.jpg",
+    "urlPath": "sonicexe"
+},{
+    "id": 279,
+    "name": "Grenadier Noob!",
+    "gameUrl": "https://www.gameflare.com/embed/grenadier-noob/",
+    "filePath": "grenadier-noob-logo.jpg",
+    "urlPath": "grenadier-noob"
+},{
+    "id": 280,
+    "name": "FoodStars.io",
+    "gameUrl": "https://www.gameflare.com/embed/foodstarsio/",
+    "filePath": "foodstarsio-logo.jpg",
+    "urlPath": "foodstarsio"
+},{
+    "id": 281,
+    "name": "I Am Security",
+    "gameUrl": "https://www.gameflare.com/embed/i-am-security/",
+    "filePath": "i-am-security-logo.jpg",
+    "urlPath": "i-am-security"
+},{
+    "id": 282,
+    "name": "GET YOKED: Extreme Bodybuilding",
+    "gameUrl": "https://www.gameflare.com/embed/get-yoked-extreme-bodybuilding/",
+    "filePath": "get-yoked-extreme-bodybuilding-logo.jpg",
+    "urlPath": "get-yoked-extreme-bodybuilding"
+},{
+    "id": 283,
+    "name": "Poxel.io",
+    "gameUrl": "https://www.gameflare.com/embed/poxelio/",
+    "filePath": "poxelio-logo.jpg",
+    "urlPath": "poxelio"
+},{
+    "id": 284,
+    "name": "Sprunki Frunki 2.0",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-frunki-20/",
+    "filePath": "sprunki-frunki-20-logo.jpg",
+    "urlPath": "sprunki-frunki-20"
+},{
+    "id": 285,
+    "name": "GTA: Grand Vegas Crime",
+    "gameUrl": "https://www.gameflare.com/embed/gta-grand-vegas-crime/",
+    "filePath": "gta-grand-vegas-crime-logo.jpg",
+    "urlPath": "gta-grand-vegas-crime"
+},{
+    "id": 286,
+    "name": "Yubin Niiku: The Postal Killer",
+    "gameUrl": "https://www.gameflare.com/embed/yubin-niiku-the-postal-killer/",
+    "filePath": "yubin-niiku-the-postal-killer-logo.jpg",
+    "urlPath": "yubin-niiku-the-postal-killer"
+},{
+    "id": 287,
+    "name": "Trollface Horror",
+    "gameUrl": "https://www.gameflare.com/embed/trollface-horror/",
+    "filePath": "trollface-horror-logo.jpg",
+    "urlPath": "trollface-horror"
+},{
+    "id": 288,
+    "name": "Sprunki Cute Time Mega!!!",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-cute-time-mega/",
+    "filePath": "sprunki-cute-time-mega-logo.jpg",
+    "urlPath": "sprunki-cute-time-mega"
+},{
+    "id": 289,
+    "name": "Screw Master 3D: Pin Puzzle",
+    "gameUrl": "https://www.gameflare.com/embed/screw-master-3d-pin-puzzle/",
+    "filePath": "screw-master-3d-pin-puzzle-logo.jpg",
+    "urlPath": "screw-master-3d-pin-puzzle"
+},{
+    "id": 290,
+    "name": "Space Waves",
+    "gameUrl": "https://www.gameflare.com/embed/space-waves/",
+    "filePath": "space-waves-logo.jpg",
+    "urlPath": "space-waves"
+},{
+    "id": 291,
+    "name": "Sprunki: Long Hand",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-long-hand/",
+    "filePath": "sprunki-long-hand-logo.jpg",
+    "urlPath": "sprunki-long-hand"
+},{
+    "id": 292,
+    "name": "Minecraft: Murder Mystery",
+    "gameUrl": "https://www.gameflare.com/embed/minecraft-murder-mystery/",
+    "filePath": "minecraft-murder-mystery-logo.jpg",
+    "urlPath": "minecraft-murder-mystery"
+},{
+    "id": 293,
+    "name": "Sprunki Skrunchy 2.0",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-skrunchy-20/",
+    "filePath": "sprunki-skrunchy-20-logo.jpg",
+    "urlPath": "sprunki-skrunchy-20"
+},{
+    "id": 294,
+    "name": "Obby: Dragon Training",
+    "gameUrl": "https://www.gameflare.com/embed/obby-dragon-training/",
+    "filePath": "obby-dragon-training-logo.jpg",
+    "urlPath": "obby-dragon-training"
+},{
+    "id": 295,
+    "name": "Soldier of Ruins",
+    "gameUrl": "https://www.gameflare.com/embed/soldier-of-ruins/",
+    "filePath": "soldier-of-ruins-logo.jpg",
+    "urlPath": "soldier-of-ruins"
+},{
+    "id": 296,
+    "name": "Cougar Simulator: Big Cats",
+    "gameUrl": "https://www.gameflare.com/embed/cougar-simulator-big-cats/",
+    "filePath": "cougar-simulator-big-cats-logo.jpg",
+    "urlPath": "cougar-simulator-big-cats"
+},{
+    "id": 297,
+    "name": "The Latest Playground Mod",
+    "gameUrl": "https://www.gameflare.com/embed/the-latest-playground-mod/",
+    "filePath": "the-latest-playground-mod-logo.jpg",
+    "urlPath": "the-latest-playground-mod"
+},{
+    "id": 298,
+    "name": "Sprunki Tragic Breakout",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-tragic-breakout/",
+    "filePath": "sprunki-tragic-breakout-logo.jpg",
+    "urlPath": "sprunki-tragic-breakout"
+},{
+    "id": 299,
+    "name": "Sprunki Gets Surgery",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-gets-surgery/",
+    "filePath": "sprunki-gets-surgery-logo.jpg",
+    "urlPath": "sprunki-gets-surgery"
+},{
+    "id": 300,
+    "name": "Geometry Vibes",
+    "gameUrl": "https://www.gameflare.com/embed/geometry-vibes/",
+    "filePath": "geometry-vibes-logo.jpg",
+    "urlPath": "geometry-vibes"
+},{
+    "id": 301,
+    "name": "Throw Things off a Skyscraper",
+    "gameUrl": "https://www.gameflare.com/embed/throw-things-off-a-skyscraper/",
+    "filePath": "throw-things-off-a-skyscraper-logo.jpg",
+    "urlPath": "throw-things-off-a-skyscraper"
+},{
+    "id": 302,
+    "name": "Sprunki Softened",
+    "gameUrl": "https://www.gameflare.com/embed/sprunki-softened/",
+    "filePath": "sprunki-softened-logo.jpg",
+    "urlPath": "sprunki-softened"
+},{
+    "id": 303,
+    "name": "Madness: Arena",
+    "gameUrl": "https://www.gameflare.com/embed/madness-arena/",
+    "filePath": "madness-arena-logo.jpg",
+    "urlPath": "madness-arena"
 }];
 
 // 使用索引的游戏列表
-const HotNewGamesIndex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 65, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105];
+const HotNewGamesIndex = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 65, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 204, 205, 206, 207, 208, 209, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270, 271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283, 284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296, 297, 298, 299, 300, 301, 302, 303];
 
 const BestGamesIndex = [0, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50];
 
 const PopularGamesIndex = [2, 3, 4, 5, 30, 6, 31, 7, 32, 33, 8, 34, 35, 9, 36, 37, 38, 10, 51, 52, 53, 54, 55, 56, 57, 58, 59, 65, 104, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160, 161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173, 174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185, 186, 187, 188, 189, 190, 191, 192, 193, 194, 195, 196, 197, 198, 199, 200, 201, 202, 203];
 
 // Sprunki相关游戏列表
-const SprunkiGames = [1, 2, 3, 6, 9, 10, 11, 13, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 98, 101, 102, 103, 104, 105, 159, 165, 166, 172, 173, 178, 179, 189, 196, 197, 201];
+const SprunkiGames = [1, 2, 3, 6, 9, 10, 11, 13, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 53, 54, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 98, 101, 102, 103, 104, 105, 159, 165, 166, 172, 173, 178, 179, 189, 196, 197, 201, 264, 266, 268, 270, 272, 284, 288, 291, 293, 298, 299, 302];
 
 
 var HotNewGames = getGamesByIndices(HotNewGamesIndex);
