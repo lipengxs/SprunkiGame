@@ -1441,3 +1441,52 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+// 搜索功能
+document.addEventListener('DOMContentLoaded', function() {
+    const searchInput = document.getElementById('gameSearch');
+    const searchResults = document.getElementById('searchResults');
+    let searchTimeout;
+
+    searchInput.addEventListener('input', function() {
+        clearTimeout(searchTimeout);
+        const searchTerm = this.value.toLowerCase().trim();
+        
+        if (searchTerm.length < 2) {
+            searchResults.classList.remove('active');
+            return;
+        }
+
+        searchTimeout = setTimeout(() => {
+            const results = GameLibrary.filter(game => 
+                game.name.toLowerCase().includes(searchTerm)
+            ).slice(0, 5); // 只显示前5个结果
+
+            if (results.length > 0) {
+                searchResults.innerHTML = results.map(game => `
+                    <div class="search-result-item" onclick="window.location.href='${game.urlPath === '' ? '/' : `/games/${game.urlPath}`}'">
+                        ${game.name}
+                    </div>
+                `).join('');
+                searchResults.classList.add('active');
+            } else {
+                searchResults.innerHTML = '<div class="search-result-item">No games found</div>';
+                searchResults.classList.add('active');
+            }
+        }, 300);
+    });
+
+    // 点击页面其他地方关闭搜索结果
+    document.addEventListener('click', function(e) {
+        if (!searchInput.contains(e.target) && !searchResults.contains(e.target)) {
+            searchResults.classList.remove('active');
+        }
+    });
+
+    // 处理键盘事件
+    searchInput.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape') {
+            searchResults.classList.remove('active');
+        }
+    });
+});
