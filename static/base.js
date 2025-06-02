@@ -1412,3 +1412,32 @@ var streamsGames= [
         "urlPath": "thequinfall"
     }
 ];
+
+function toggleMenu() {
+    const nav = document.querySelector('.nav-menu');
+    const menuBtn = document.querySelector('.mobile-menu-btn');
+    
+    nav.classList.toggle('active');
+    menuBtn.classList.toggle('active');
+    
+    // 防止菜单打开时页面可以滚动
+    if (nav.classList.contains('active')) {
+        document.body.style.overflow = 'hidden';
+    } else {
+        document.body.style.overflow = '';
+    }
+}
+
+// 点击菜单项时关闭菜单
+document.addEventListener('DOMContentLoaded', function() {
+    const menuLinks = document.querySelectorAll('.nav-menu a');
+    menuLinks.forEach(link => {
+        link.addEventListener('click', () => {
+            const nav = document.querySelector('.nav-menu');
+            const menuBtn = document.querySelector('.mobile-menu-btn');
+            nav.classList.remove('active');
+            menuBtn.classList.remove('active');
+            document.body.style.overflow = '';
+        });
+    });
+});
