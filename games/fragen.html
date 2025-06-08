@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FRAGEN - Interactive Quiz Adventure | Sprunki Games</title>
+    <meta name="description" content="Play FRAGEN - An engaging quiz adventure game that challenges your knowledge and quick thinking. Test your wits across various categories and compete with others. Free to play in your browser!">
+    <meta name="keywords" content="fragen, quiz game, knowledge game, trivia game, browser games, free games, educational game">
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:locale" content="en_US"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:title" content="FRAGEN - Interactive Quiz Adventure"/>
+    <meta property="og:description" content="Challenge yourself with FRAGEN, an exciting quiz game that tests your knowledge across various topics. Compete with others and learn while having fun!"/>
+    <meta property="og:url" content="https://sprunki.tv/games/fragen"/>
+    <meta property="og:image" content="https://sprunki.tv/static/fragen-logo.jpg">
+    <meta property="og:site_name" content="Sprunki"/>
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="FRAGEN - Interactive Quiz Adventure">
+    <meta name="twitter:description" content="Challenge yourself with FRAGEN, an exciting quiz game that tests your knowledge across various topics. Compete with others and learn while having fun!">
+    <meta name="twitter:image" content="https://sprunki.tv/static/fragen-logo.jpg">
+
+    <!-- Canonical URL -->
+    <link rel="canonical" href="https://sprunki.tv/games/fragen"/>
+    
+    <!-- Favicon -->
+    <link rel="icon" href="https://sprunki.tv/static/image.png" sizes="32x32"/>
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="../static/base.css?v=1.2">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    
+    <!-- Scripts -->
+    <script src="../static/base.js?v=1.3"></script>
+    
+    <meta name="yandex-verification" content="3e77ac489256ad60" />
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3143538773884507"></script>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BCY41MVG9H"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-BCY41MVG9H');
+    </script>
+    
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3143538773884507" crossorigin="anonymous"></script>
+
+    <style>
+        .game-container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .game-cover {
+            position: relative;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+        .cover-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        .play-button {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            padding: 15px 30px;
+            font-size: 1.2em;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        .play-button:hover {
+            background-color: #45a049;
+        }
+        .iframe-container {
+            position: relative;
+            width: 100%;
+            padding-top: 56.25%;
+        }
+        .iframe-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <script type="text/javascript">
+        atOptions = {
+            'key' : '6f8703e26db427f5c5ebb0c5e7ffcc84',
+            'format' : 'iframe',
+            'height' : 60,
+            'width' : 468,
+            'params' : {}
+        };
+    </script>
+    <script type="text/javascript" src="//www.highperformanceformat.com/6f8703e26db427f5c5ebb0c5e7ffcc84/invoke.js"></script>   
+    
+    <header>
+        <div class="container">
+            <div class="logo-container">
+                <img src="https://sprunki.tv/static/image.png" alt="Sprunki Logo" class="logo" onclick="window.location.href='/'">
+                <span class="logo-text">Sprunki</span>
+            </div>
+            <nav>
+                <ul id="menu">
+                    <a href="/">Home</a>
+                    <a href="/sprunki-games">Sprunki Games</a>
+                    <a href="/hot-new-games">Hot New Games</a>
+                    <a href="/best-games">Best Games</a>
+                    <a href="/popular-games">Popular Games</a>
+                    <a href="/hot-stream-games">Hot Stream Games</a>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="section-container">
+            <div class="game-container" id="game-container">
+                <div class="game-cover" id="gameCover">
+                    <img src="../static/fragen-logo.jpg" alt="FRAGEN Cover" class="cover-image">
+                    <button class="play-button" onclick="loadGame()">
+                        <i class="fas fa-play"></i> Play Now
+                    </button>
+                </div>
+                <div class="iframe-container" id="iframeContainer" style="display: none;">
+                    <iframe 
+                        id="gameFrame"
+                        width="100%" 
+                        height="600px"
+                        frameborder="0" 
+                        allowfullscreen
+                        loading="lazy"
+                        title="FRAGEN">
+                    </iframe>
+                </div>
+            </div>
+
+            <div class="game-intro">
+                <h1>FRAGEN</h1>
+                <p class="game-tagline">Challenge Your Mind, Expand Your Knowledge!</p>
+                <div class="game-meta">
+                    <span><i class="fas fa-brain"></i> Quiz Game</span>
+                    <span><i class="fas fa-graduation-cap"></i> Educational</span>
+                    <span><i class="fas fa-globe"></i> Browser Game</span>
+                    <span><i class="fas fa-star"></i> 4.7/5 Rating</span>
+                    <span><i class="fas fa-users"></i> Multiplayer</span>
+                    <span><i class="fas fa-signal"></i> All Skill Levels</span>
+                </div>
+                
+                <div class="game-description">
+                    <h2>About The Game</h2>
+                    <p>FRAGEN is an engaging quiz adventure that challenges your knowledge across various topics. Test your wits against other players, learn interesting facts, and climb the ranks to become a quiz master. With its diverse question categories and competitive gameplay, every session brings new excitement and learning opportunities.</p>
+                    
+                    <div class="gameplay-highlights">
+                        <div class="highlight-item">
+                            <i class="fas fa-question-circle"></i>
+                            <h4>Diverse Categories</h4>
+                            <p>Explore questions from history, science, pop culture, and more</p>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-trophy"></i>
+                            <h4>Competitive Play</h4>
+                            <p>Challenge players worldwide and climb the leaderboards</p>
+                        </div>
+                        <div class="highlight-item">
+                            <i class="fas fa-lightbulb"></i>
+                            <h4>Learning Experience</h4>
+                            <p>Learn fascinating facts while having fun</p>
+                        </div>
+                    </div>
+
+                    <div class="key-features">
+                        <h3>Key Features:</h3>
+                        <ul>
+                            <li><i class="fas fa-check"></i> Multiple question categories</li>
+                            <li><i class="fas fa-check"></i> Real-time multiplayer</li>
+                            <li><i class="fas fa-check"></i> Progressive difficulty levels</li>
+                            <li><i class="fas fa-check"></i> Achievement system</li>
+                            <li><i class="fas fa-check"></i> Daily challenges</li>
+                            <li><i class="fas fa-check"></i> Global leaderboards</li>
+                            <li><i class="fas fa-check"></i> Educational content</li>
+                            <li><i class="fas fa-check"></i> Regular question updates</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-container">
+            <h2>More Hot Games You Might Like</h2>
+            <div class="hot-games-slider">
+                <div class="hot-games-grid" id="hotGamesGrid">
+                    <!-- Will be populated by JavaScript -->
+                </div>
+            </div>
+        </div>
+
+        <div class="section-container">
+            <h2>Game Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <i class="fas fa-book"></i>
+                    <h3>Knowledge Base</h3>
+                    <p>Extensive collection of questions across topics</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-users"></i>
+                    <h3>Multiplayer Mode</h3>
+                    <p>Compete with players worldwide</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>Progress Tracking</h3>
+                    <p>Monitor your improvement over time</p>
+                </div>
+                <div class="feature-card">
+                    <i class="fas fa-medal"></i>
+                    <h3>Achievements</h3>
+                    <p>Earn badges and unlock rewards</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section-container">
+            <h2>Frequently Asked Questions</h2>
+            <div class="faq" onclick="toggleAnswer(this)">
+                <div class="question">What types of questions are included?</div>
+                <div class="icon">▼</div>
+            </div>
+            <div class="answer">FRAGEN features questions from various categories including history, science, geography, entertainment, sports, and more. New questions are regularly added to keep the game fresh and challenging.</div>
+
+            <div class="faq" onclick="toggleAnswer(this)">
+                <div class="question">Can I play against my friends?</div>
+                <div class="icon">▼</div>
+            </div>
+            <div class="answer">Yes! You can challenge your friends to private quiz battles or join public matches to compete with players from around the world.</div>
+
+            <div class="faq" onclick="toggleAnswer(this)">
+                <div class="question">How do I improve my ranking?</div>
+                <div class="icon">▼</div>
+            </div>
+            <div class="answer">Win matches, complete daily challenges, and maintain a high accuracy rate to climb the global leaderboards and improve your ranking.</div>
+        </div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-main">
+            <div class="container">
+                <div class="footer-content">
+                    <div class="footer-column">
+                        <div class="footer-logo">
+                            <img src="https://sprunki.tv/static/image.png" alt="Sprunki Logo" class="footer-logo-img">
+                            <span class="footer-logo-text">Sprunki</span>
+                        </div>
+                        <p class="footer-description">Your ultimate destination for online gaming entertainment!</p>
+                    </div>
+                    <div class="footer-column">
+                        <h3 class="footer-title">Games</h3>
+                        <div class="footer-links">
+                            <a href="/">Home</a>
+                            <a href="/sprunki-games">Sprunki Games</a>
+                            <a href="/hot-new-games">Hot New Games</a>
+                            <a href="/best-games">Best Games</a>
+                        </div>
+                    </div>
+                    <div class="footer-column">
+                        <h3 class="footer-title">More Games</h3>
+                        <div class="footer-links">
+                            <a href="/popular-games">Popular Games</a>
+                            <a href="/hot-stream-games">Hot Stream Games</a>
+                        </div>
+                    </div>
+                    <div class="footer-column">
+                        <h3 class="footer-title">Legal</h3>
+                        <div class="footer-links">
+                            <a href="/privacy-policy">Privacy Policy</a>
+                            <a href="/terms-of-use">Terms of Use</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; 2024 <strong>Sprunki</strong>. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        function loadGame() {
+            document.getElementById('gameCover').style.display = 'none';
+            document.getElementById('iframeContainer').style.display = 'block';
+            document.getElementById('gameFrame').src = 'https://www.gameflare.com/embed/fragen/';
+        }
+    </script>
+</body>
+</html> 
