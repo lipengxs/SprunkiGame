@@ -2030,6 +2030,15 @@ function toggleMenu() {
 
 // 点击菜单项时关闭菜单
 document.addEventListener('DOMContentLoaded', function() {
+    if (!document.querySelector('[data-site-disclaimer="true"]')) {
+        const notice = document.createElement('div');
+        notice.dataset.siteDisclaimer = 'true';
+        notice.setAttribute('role', 'note');
+        notice.style.cssText = 'background:#1d2433;color:#fff;padding:.7rem 1rem;text-align:center;font:600 14px/1.45 Arial,sans-serif;';
+        notice.textContent = 'Independent fan guide and discovery site. Not affiliated with or endorsed by the owners of Sprunki, Incredibox, or any embedded game. Third-party games are hosted by their respective providers.';
+        document.body.insertBefore(notice, document.body.firstChild);
+    }
+
     const menuLinks = document.querySelectorAll('.nav-menu a');
     menuLinks.forEach(link => {
         link.addEventListener('click', () => {
