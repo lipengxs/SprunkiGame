@@ -4,18 +4,18 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="noindex,follow">
-    <title>Hot Stream Games - Free Online Games Collection | Sprunki</title>
-    <meta name="description" content="Play the hottest streaming games at Sprunki. Our collection features popular streaming games that you can play directly in your browser!">
+    <title>Game Guide Discovery | Sprunki</title>
+    <meta name="description" content="Explore independent game guides beyond browser music creation. These external reading resources are not embedded games or official downloads.">
     <meta name="keywords" content="stream games, hot games, online streaming games, sprunki games, online gaming">
     <meta property="og:locale" content="en_US"/>
     <meta property="og:type" content="website"/>
-    <meta property="og:title" content="Hot Stream Games - Free Online Games Collection | Sprunki"/>
+    <meta property="og:title" content="Game Guide Discovery | Sprunki"/>
     <meta property="og:description" content="Play the hottest streaming games at Sprunki. Our collection features popular streaming games that you can play directly in your browser!"/>
     <meta property="og:url" content="https://sprunki.tv/hot-stream-games"/>
     <meta property="og:image" content="/static/image.png">
     <meta property="og:site_name" content="Sprunki"/>
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Hot Stream Games - Free Online Games Collection | Sprunki">
+    <meta name="twitter:title" content="Game Guide Discovery | Sprunki">
     <meta name="twitter:description" content="Play the hottest streaming games at Sprunki. Our collection features popular streaming games that you can play directly in your browser!">
     <meta name="twitter:image" content="https://sprunki.tv/static/image.png">
     <meta name="msvalidate.01" content="B362957FC36C5EDDD6079B6D78330424" />
@@ -154,7 +154,7 @@
             font-size: 18px;
         }
     </style>
-</head>
+<link rel="stylesheet" href="/static/game-discovery.css"></head>
 <body>
    
     <header>
@@ -181,7 +181,7 @@
     </div>
 
     <main class="games-list">
-        <div class="games-grid" id="gamesGrid">
+        <section class="gd-home"><h2>Explore independent game guides</h2><p>These links open reading resources for other games. They are not free browser games or official downloads.</p><a href="/related-games">Browse all game guides by category →</a></section><div class="games-grid" id="gamesGrid">
             <!-- Games will be dynamically inserted here -->
         </div>
     </main>
@@ -229,7 +229,7 @@
             <p>&copy; 2025 <strong>Sprunki</strong>. All rights reserved.</p>
         </div>
     </div>
-</footer>
+<div class="gd-footer"><a href="/related-games">Explore More Games</a></div></footer>
 
     <script>
         document.addEventListener('DOMContentLoaded', function() {
@@ -242,22 +242,7 @@
                 gameCard.className = 'game-card';
                 gameCard.target = '_blank'; // 在新标签页中打开
                 
-                // 生成随机星级 (4.0-5.0)
-                const rating = (4 + Math.random()).toFixed(1);
-                const fullStars = Math.floor(rating);
-                const hasHalfStar = rating % 1 >= 0.5;
                 
-                // 生成星星HTML
-                let starsHtml = '';
-                for (let i = 0; i < 5; i++) {
-                    if (i < fullStars) {
-                        starsHtml += '<i class="fas fa-star"></i>';
-                    } else if (i === fullStars && hasHalfStar) {
-                        starsHtml += '<i class="fas fa-star-half-alt"></i>';
-                    } else {
-                        starsHtml += '<i class="far fa-star"></i>';
-                    }
-                }
                 
                 gameCard.innerHTML = `
                     <i class="fas fa-broadcast-tower stream-icon"></i>
@@ -267,10 +252,7 @@
                     <img src="static/${game.filePath}" alt="${game.name}">
                     <div class="game-info">
                         <h3>${game.name}</h3>
-                        <div class="rating">
-                            ${starsHtml}
-                            <span class="rating-number">${rating}</span>
-                        </div>
+                        <p>Independent game guide</p>
                     </div>
                 `;
                 

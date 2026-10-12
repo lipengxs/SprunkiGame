@@ -1,0 +1,189 @@
+{
+  "game": "Sprunki",
+  "origin": "https://sprunki.tv",
+  "updated": "2026-10-12",
+  "title": "Games to Explore After Sprunki",
+  "description": "Compare selected games for Sprunki readers, with clear reasons to explore each setting and links to independent guides.",
+  "intro": "Looking beyond a browser music session? This directory introduces independent guides to PC and console games, grouped by the kind of experience you want to research. These are reading destinations, not embedded games or download services.",
+  "disclosure": "These independent guide websites are maintained by the same operator. Recommendations are editorial suggestions, not official partnerships or endorsements. Official game sources are listed separately.",
+  "entries": [
+    {
+      "name": "Grave Seasons",
+      "url": "https://graveseasons.com/",
+      "category": "Farming & Life Sims",
+      "tags": "Farming · relationships · mystery",
+      "reason": "Explore how tending a farm and building relationships sit alongside a supernatural mystery. The guide separates everyday systems from spoiler-sensitive investigation information.",
+      "difference": "This destination is an independent reading guide to a farming life entwined with a supernatural investigation, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Emberville",
+      "url": "https://embervilleguides.com/",
+      "category": "Farming & Life Sims",
+      "tags": "Action RPG · life skills · rebuilding",
+      "reason": "Read about town rebuilding, life skills and the connection between peaceful activities and action-RPG progression. Useful if you want a home to develop alongside an adventure.",
+      "difference": "This destination is an independent reading guide to action combat alongside life skills and rebuilding a town, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Loftia",
+      "url": "https://loftiahq.com/",
+      "category": "Farming & Life Sims",
+      "tags": "Social world · housing · farming",
+      "reason": "Explore personal housing, shared neighborhoods and cooperative activities in an online social setting. Start with the housing and multiplayer guides to understand the shape of that community.",
+      "difference": "This destination is an independent reading guide to an online social world with shared projects and personal living spaces, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Witchbrook",
+      "url": "https://witchbrookguide.com/",
+      "category": "Farming & Life Sims",
+      "tags": "Magic school · town life",
+      "reason": "Research a magical school routine, town relationships and the publicly described life-simulation systems. Its guide keeps announced features separate from expectations about the final game.",
+      "difference": "This destination is an independent reading guide to magical studies and everyday relationships around a school and town, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "The Ranchers",
+      "url": "https://the-ranchers.com/",
+      "category": "Farming & Life Sims",
+      "tags": "Country life · farming · co-op",
+      "reason": "Explore a country-life setting built around a home, farm activities and cooperation. The guide provides a starting point for researching a smaller shared living space.",
+      "difference": "This destination is an independent reading guide to country-life simulation with farming and small-group cooperation, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Nivalis",
+      "url": "https://nivalisguide.com/",
+      "category": "Farming & Life Sims",
+      "tags": "City life · business · atmosphere",
+      "reason": "Research daily life and business ownership in a cyberpunk city. This is a useful change of pace if managing a place matters to you as much as exploring it.",
+      "difference": "This destination is an independent reading guide to city life and running businesses in a cyberpunk setting, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "DREADMOOR",
+      "url": "https://dreadmoorguide.com/",
+      "category": "Survival & Exploration",
+      "tags": "Fishing · boat upgrades · horror",
+      "reason": "Follow a survival loop that connects fishing, cargo decisions and boat improvements. Its submerged setting offers a different way to combine useful daily work with a threatening atmosphere.",
+      "difference": "This destination is an independent reading guide to fishing, vessel upkeep and uneasy exploration in a submerged world, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Frostrail",
+      "url": "https://frostrailguide.com/",
+      "category": "Survival & Exploration",
+      "tags": "Train systems · frozen survival · co-op",
+      "reason": "Explore how train operation, onboard facilities and expeditions fit together. The guide distinguishes announced core systems from future plans and avoids invented upgrade costs.",
+      "difference": "This destination is an independent reading guide to survival expeditions organised around an expanding train, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Ardem",
+      "url": "https://ardemguide.com/",
+      "category": "Survival & Exploration",
+      "tags": "Survival · crafting · exploration",
+      "reason": "Research crafting, exploration and survival in an outbreak setting. Its source-aware guides are useful for comparing what you carry, where you settle and how you prepare to travel.",
+      "difference": "This destination is an independent reading guide to survival, crafting and exploration across an outbreak setting, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Dune: Awakening",
+      "url": "https://dune-awakening.com/",
+      "category": "Survival & Exploration",
+      "tags": "Desert survival · shared world",
+      "reason": "Explore survival preparation and the shared-world context of Arrakis. Environmental constraints provide a useful comparison when choosing another game about planning a journey.",
+      "difference": "This destination is an independent reading guide to survival and social play on the desert world of Arrakis, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Beautiful Light",
+      "url": "https://beautifullightguide.com/",
+      "category": "Shooters & Extraction",
+      "tags": "Extraction · tactical shooting · horror",
+      "reason": "Research a shooter where extraction objectives meet horror imagery. Consider it for armed team encounters and tension rather than for a peaceful exploration loop.",
+      "difference": "This destination is an independent reading guide to tactical extraction shooting with horror elements, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Mistfall Hunter",
+      "url": "https://mistfallguide.com/",
+      "category": "Shooters & Extraction",
+      "tags": "Dark fantasy · action · extraction",
+      "reason": "Explore dark-fantasy combat with extraction stakes. Its guide is useful when comparing the cost of an expedition and the feel of action-oriented encounters.",
+      "difference": "This destination is an independent reading guide to dark-fantasy action with extraction stakes, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Fate Trigger",
+      "url": "https://fatetriggerguide.com/",
+      "category": "Shooters & Extraction",
+      "tags": "Hero abilities · battle royale",
+      "reason": "Research an ability-driven battle royale and its character roles. It offers a way to compare team decisions across a different match structure.",
+      "difference": "This destination is an independent reading guide to ability-driven shooting in a battle-royale setting, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "WARDOGS",
+      "url": "https://wardogsguide.com/",
+      "category": "Shooters & Extraction",
+      "tags": "Tactical shooting · squad coordination",
+      "reason": "Explore tactical squad roles and coordinated shooting. Its guide helps you compare team organisation rather than assuming hero abilities or extraction rules carry across games.",
+      "difference": "This destination is an independent reading guide to tactical shooting and coordinated squad play, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Marvel Rivals",
+      "url": "https://marvelrivals.net/",
+      "category": "Shooters & Extraction",
+      "tags": "Hero shooter · team composition",
+      "reason": "Read about hero roles and team combinations in a competitive shooter. This is a useful destination for players interested in how one character choice changes a team.",
+      "difference": "This destination is an independent reading guide to team-based hero combat and role combinations, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Phantom Blade Zero",
+      "url": "https://phantombladeguide.com/",
+      "category": "Action, Fantasy & Strategy",
+      "tags": "Martial arts · action",
+      "reason": "Research martial-arts action and combat presentation. Follow it when your interest is movement and individual encounters rather than maintaining a settlement or an online economy.",
+      "difference": "This destination is an independent reading guide to martial-arts action and close-range combat, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Crimson Desert",
+      "url": "https://crimson-desert.com/",
+      "category": "Action, Fantasy & Strategy",
+      "tags": "Open-world action · exploration",
+      "reason": "Explore an action-adventure setting and its wider world. Its guides offer another reading route for players drawn to combat, travel and a fantasy landscape.",
+      "difference": "This destination is an independent reading guide to open-world action and exploration in Pywel, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "The Quinfall",
+      "url": "https://thequinfall.com/",
+      "category": "Action, Fantasy & Strategy",
+      "tags": "Fantasy MMORPG · online world",
+      "reason": "Research a fantasy MMORPG and its shared-world systems. Start with current official information before choosing it for long-term character progression or social play.",
+      "difference": "This destination is an independent reading guide to a shared fantasy world with MMORPG progression, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "Chronicles: Medieval",
+      "url": "https://chronicles-medieval.com/",
+      "category": "Action, Fantasy & Strategy",
+      "tags": "Medieval sandbox · battles",
+      "reason": "Explore a medieval sandbox through battle and campaign questions. It is a useful research route when planning larger conflicts matters more than a single character’s routine.",
+      "difference": "This destination is an independent reading guide to a medieval sandbox concerned with battles and campaign decisions, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "PAX AUTOCRATICA",
+      "url": "https://pax-autocratica.com/",
+      "category": "Action, Fantasy & Strategy",
+      "tags": "Colony management · conflict",
+      "reason": "Read an independent introduction to colony management and conflict. The reading guide points back to official sources rather than claiming to be a tested strategy manual.",
+      "difference": "This destination is an independent reading guide to colony management and conflict, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "REPLACED",
+      "url": "https://replacedgame.com/",
+      "category": "Story & Adventure",
+      "tags": "Cinematic action · pixel art · science fiction",
+      "reason": "Explore cinematic pixel-art action in a retro-futuristic world. Follow the guide for atmosphere and narrative interest while expecting a different interaction style from a life sim or visual novel.",
+      "difference": "This destination is an independent reading guide to cinematic action in a retro-futuristic world, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    },
+    {
+      "name": "KaiJu Girls",
+      "url": "https://kaijugirls.com/",
+      "category": "Story & Adventure",
+      "tags": "Visual novel · character stories",
+      "reason": "Explore a character-focused visual novel. Read its independent guide for narrative context and consult the official store for current content and availability details.",
+      "difference": "This destination is an independent reading guide to character-focused visual-novel storytelling, not a free browser game or an official download page. Check the official store for current availability and platform support."
+    }
+  ],
+  "articles": [],
+  "guideRecommendations": []
+}
